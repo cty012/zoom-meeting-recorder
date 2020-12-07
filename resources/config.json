@@ -1,0 +1,19 @@
+{
+    "join": {
+        "args": [],
+        "kwargs": {
+            "uname": "Daniel Cao"
+        }
+    },
+    "join_by_name": {
+        "args": [],
+        "kwargs": {
+            "uname": "Daniel Cao"
+        }
+    },
+    "-abbr": {
+        "j": "join",
+        "jn": "join_by_name",
+        "q": "quit"
+    }
+}

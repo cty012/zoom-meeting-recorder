@@ -1,0 +1,67 @@
+[
+    {
+        "name": "localhost",
+        "zoom_id": "4297719078",
+        "pwd": "842105"
+    },
+    {
+        "name": "advisory",
+        "zoom_id": "97583349039",
+        "pwd": "602214"
+    },
+    {
+        "name": "p3",
+        "zoom_id": "6092857698",
+        "pwd": "850116"
+    },
+    {
+        "name": "p4",
+        "zoom_id": "4395062722",
+        "pwd": "19Lambert"
+    },
+    {
+        "name": "p5",
+        "zoom_id": "99015268594",
+        "pwd": "726516"
+    },
+    {
+        "name": "p6-mon",
+        "zoom_id": "94572877836",
+        "pwd": "Ms.Hage"
+    },
+    {
+        "name": "p6-wed",
+        "zoom_id": "93909699754",
+        "pwd": "Ms.Hage"
+    },
+    {
+        "name": "p6-fri",
+        "zoom_id": "93589588715",
+        "pwd": "Ms.Hage"
+    },
+    {
+        "name": "p7",
+        "zoom_id": "2974947517",
+        "pwd": "1024"
+    },
+    {
+        "name": "p7-lab",
+        "zoom_id": "91980211386",
+        "pwd": "00011011"
+    },
+    {
+        "name": "p8",
+        "zoom_id": "mr.kemp",
+        "pwd": "314159"
+    },
+    {
+        "name": "club-tue",
+        "zoom_id": "7693691605",
+        "pwd": "64127853"
+    },
+    {
+        "name": "club-thu",
+        "zoom_id": "6173682426",
+        "pwd": "fYUY5n"
+    }
+]
