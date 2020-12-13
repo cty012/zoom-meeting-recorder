@@ -9,7 +9,7 @@ def join(command):
         print('please specify the zoom id!')
         return
     uri = ZoomURI.join(
-        command.args['id'],
+        command.kwargs['id'],
         command.kwargs.get('pwd', None),
         command.kwargs.get('uname', None))
     wb.open(uri, new=2)
